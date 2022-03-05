@@ -1,0 +1,11 @@
+body{
+    position: relative;
+    height: 100vh;
+    background-color: rgb(30, 24, 39);
+}
+.chart{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
